@@ -13,3 +13,14 @@
 .light-color{
     color: #BCBBBB;
 }
+
+@media only screen and (max-width: 800px){
+    .center-align{
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .logo-align{
+        float: left;
+    }
+}
